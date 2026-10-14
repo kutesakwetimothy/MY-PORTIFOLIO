@@ -1,45 +1,55 @@
-# Timothy Smith — Personal Portfolio
+# 👋 PERSONAL PORTFOLIO
 
-A responsive personal portfolio website built with **HTML, CSS and JavaScript**, ready to publish for free with GitHub Pages.
+## Kutesakwe Timothy
+**Computer Science Student | Aspiring IT Professional**
 
-## Files
+---
 
-- `index.html` — page content and sections
-- `style.css` — layout, colors, responsive design and styling
-- `script.js` — mobile navigation and automatic footer year
-- `assets/profile.jpg` — your original cover photo
+### 👨‍💻 About Me
 
-## Before publishing
+I am a motivated Computer Science student at **Uganda Christian University (UCU)** with a strong foundation in information technology, computer networking, software development, and data analysis.
 
-1. Open `index.html` and check your contact details.
-2. Update the UCU programme/dates if you want to show the exact course and dates.
-3. Replace the sample project descriptions with your real projects when ready.
-4. Add your GitHub username by replacing the placeholder GitHub profile link in `index.html`.
+My academic background and Cisco training have strengthened my technical understanding and prepared me to approach technology challenges with curiosity, discipline, and a problem-solving mindset.
 
-## Publish on GitHub Pages
+---
 
-1. Sign in at [GitHub](https://github.com/) or create an account.
-2. Select **New repository**.
-3. Name it `timothy-smith-portfolio` (or another name you prefer).
-4. Choose **Public**, then select **Create repository**.
-5. Upload `index.html`, `style.css`, and `script.js` to the repository's root. Upload the whole `assets` folder too, keeping `profile.jpg` inside it.
-   - On the repository page, choose **Add file → Upload files**.
-   - Select the files and the `assets` folder from your extracted portfolio folder, then commit the changes.
-6. Open the repository's **Settings → Pages**.
-7. Under **Build and deployment**, choose **Deploy from a branch**.
-8. Select branch `main` and folder `/(root)`, then click **Save**.
-9. Wait a few minutes and refresh the Pages section; GitHub will show your live website link.
+### 🎓 Education
 
-Your link will look like:
+* **Uganda Christian University (UCU)** — *Bachelor of Science in Computer Science*
+* **Makerere University (MUK)** — *Certificate in Cisco Networking*
 
-`https://YOUR-GITHUB-USERNAME.github.io/timothy-smith-portfolio/`
+---
 
-Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
+### 🛠️ Technical Skills and Strengths
 
-## Updating the website
+* Computer Networking and Troubleshooting
+* Cisco Networking Fundamentals
+* Programming and Software Development
+* Computer Systems and Hardware
+* Data Collection and Analysis
+* Problem-Solving and Critical Thinking
+* Communication, Teamwork, and Collaboration
+* Adaptability and Continuous Learning
 
-Edit the relevant file, upload the updated file to the same repository, and commit the change. GitHub Pages will publish the update automatically.
+---
 
-## Important
+### 🎯 Career Objective
 
-GitHub Pages hosts static websites, so this portfolio does not include a private database or contact form backend. The email and phone links open the visitor's email or phone app.
+To build a successful career in the IT industry by applying my academic knowledge and Cisco networking training to practical challenges. I aim to strengthen my technical expertise, gain valuable hands-on experience, and contribute to reliable, innovative, and user-focused technology solutions.
+
+---
+
+### 💡 Personal Statement
+
+I am a dedicated and adaptable IT student with a strong willingness to learn, a foundation in computer science and networking, and a commitment to delivering quality work. Through continuous development and collaboration, I aim to make a meaningful contribution to the technology industry.
+
+---
+
+### 📫 Contact
+
+* **Email:** [timothysmithvenum@gmail.com](mailto:timothysmithvenum@gmail.com)
+* **Phone:** +256 707 444 238
+
+---
+
+⭐ *Thank you for visiting my portfolio! I am always eager to learn, grow, and explore new opportunities in technology.*
